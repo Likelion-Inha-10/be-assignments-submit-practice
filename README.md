@@ -24,7 +24,7 @@
 
 
 
-![1]()
+![1](https://raw.githubusercontent.com/Likelion-Inha-10/be-assignments-submit-practice/main/assets/images/1.png)
 
 
 
@@ -32,7 +32,7 @@
 
 
 
-![2]()
+![2](https://raw.githubusercontent.com/Likelion-Inha-10/be-assignments-submit-practice/main/assets/images/2.png)
 
 
 
