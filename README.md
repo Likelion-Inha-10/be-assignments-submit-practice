@@ -96,7 +96,7 @@
 
 
 
-> `assignments` 폴더 안에 있는 [`TEMPLATES.md`](https://github.com/Likelion-Inha-10/be-assignments-submit-practice/blob/main/assignments/TEMPLATE.md)파일에 적혀있는 사항을 잘 읽고 이에 잘 맞추어 과제를 수행하십시오.
+> `assignments` 폴더 안에 있는 [`TEMPLATES.md`](https://github.com/Likelion-Inha-10/be-assignments-submit-practice/blob/main/assignments/TEMPLATE.md)파일에 적혀있는 사항을 잘 읽고 이에 잘 맞추어 과제를 수행하십시오. 더불어 [여기](https://www.notion.so/likelioninha/9bd254807acc42d99c2a83b88e83e175)를 반드시 확인하십시오.
 
 
 
