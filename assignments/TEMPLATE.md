@@ -48,7 +48,7 @@
 2순위 지원 |
 
 ```
-Upbit API와 Telegram Bot을 이용한 코인 시세 알리미 만들기 (LEVEL 7)
+3번 | Upbit API와 Telegram Bot을 이용한 코인 시세 알리미 만들기 (LEVEL 7)
 ```
 
 3순위 지원 |
